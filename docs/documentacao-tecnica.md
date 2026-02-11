@@ -205,3 +205,4 @@ Para execução dos testes, utilize as seguintes credenciais mockadas:
     - Google Chrome
     - Mozilla Firefox
     - Safari
+    - ---
