@@ -12,15 +12,15 @@ A proposta foi simular um cenário real de trabalho, explorando o sistema sob du
 
 Durante o processo, executei:
 
-✅ Testes funcionais
+- Testes funcionais
 
-❌ Testes negativos
+-  Testes negativos
 
-🔎 Testes exploratórios
+- Testes exploratórios
 
-🔁 Testes de regressão
+- Testes de regressão
 
-🐞 Registro formal de bugs com evidências
+- Registro formal de bugs com evidências
 
 Mais do que encontrar erros, o objetivo foi exercitar o pensamento crítico, validar regras de negócio, analisar comportamentos inesperados e documentar tudo de forma estruturada — como acontece no dia a dia de um QA.
 
