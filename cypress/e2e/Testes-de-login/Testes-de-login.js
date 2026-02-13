@@ -1,4 +1,4 @@
-describe('template spec', () => {
+describe('Testes de Login', () => {
   beforeEach(() => {
     cy.visit('https://timeless-lumestack.netlify.app/')
     });
