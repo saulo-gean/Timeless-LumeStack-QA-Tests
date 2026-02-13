@@ -3,7 +3,7 @@
 Descricao:
 Esta planilha contem:
 - Casos de teste executados 
-- Status (passou/falhou)
+- Status (passou/nao passou/bug critico/bug)
 - Bugs encontrados
 
 Link:
